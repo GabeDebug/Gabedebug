@@ -1,16 +1,22 @@
-## Hi there 👋
+# Olá, sou o Gabriel Messias 👋
 
-<!--
-**GabeDebug/Gabedebug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou desenvolvedor de software apaixonado por **tecnologia** e **inovação**. Adoro aprender novas linguagens de programação, resolver problemas e criar soluções escaláveis e eficientes.
 
-Here are some ideas to get you started:
+Atualmente, estou focado em **desenvolvimento full-stack**, mas também tenho experiência com **front-end** e **backend**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias que utilizo
+- **Frontend**: HTML, CSS, JavaScript, React
+- **Backend**: Node.js, Express, Python, Java
+- **Banco de Dados**: MongoDB,  MySQL
+- **Ferramentas**: Git, Github
+
+## 🌱 Atualmente aprendendo
+- **Testes Automatizados**
+
+## 📈 Estatísticas do GitHub
+![Estatísticas do Gabriel](https://github-readme-stats.vercel.app/api?username=seu-username&show_icons=true&theme=radical)
+
+## 🔗 Redes Sociais
+- [LinkedIn](https://www.linkedin.com/in/seu-linkedin/)
+- [Twitter](https://twitter.com/seu-twitter)
+- [Blog/Portfólio](https://seu-portfolio.github.io)
